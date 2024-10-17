@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Taha</h1>
 <h3 align="center">An enthusiastic individual currently pursuing a degree in computer science to explore this field.</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&usqp=CAU">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taha-jamil&label=Profile%20views&color=0e75b6&style=flat" alt="taha-jamil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bolttaha&label=Profile%20views&color=0e75b6&style=flat" alt="BoltTaha" /> </p>
 
 - 🌱 I’m currently learning **frontend stack, OOP, etc.**
 
@@ -28,9 +28,8 @@
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taha-jamil&show_icons=true&locale=en&layout=compact" alt="taha-jamil" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bolttaha&show_icons=true&locale=en&layout=compact" alt="BoltTaha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taha-jamil&show_icons=true&locale=en" alt="taha-jamil" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bolttaha&show_icons=true&locale=en" alt="BoltTaha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taha-jamil&" alt="taha-jamil" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bolttaha&" alt="BoltTaha" /></p>
