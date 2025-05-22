@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C, C++**
 
-- 📫 How to reach me **tahaplayz2004@gmail.com**
+- 📫 How to reach me **bolt.taha.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
