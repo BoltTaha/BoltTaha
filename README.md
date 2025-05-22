@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="mailto:tahaplayz2004@gmail.com" target="blank">
+    <a href="mailto:bolt.taha.work@gmail.com" target="blank">
         <img align="center" src="https://github.com/BoltTaha/BoltTaha/blob/4c5e3aa7b00883e735c26e6f4032cd925f6119b9/gmail%20logo.png" alt="gmail" height="30" width="40" />
     </a>
     <a href="https://www.linkedin.com/in/muhammad-taha-57713b247/" target="blank">
