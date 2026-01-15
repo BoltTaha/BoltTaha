@@ -1,59 +1,69 @@
 <h1 align="center">Hi 👋, I'm Muhammad Taha</h1>
-<h3 align="center">An enthusiastic individual currently pursuing a degree in computer science to explore this field.</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&usqp=CAU">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bolttaha&label=Profile%20views&color=0e75b6&style=flat" alt="BoltTaha" /> </p>
+<h3 align="center">Data Scientist | Computer Vision Engineer | High-Performance Computing</h3>
 
-### **About Me**
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+</div>
 
-* 🚀 Currently exploring **Cybersecurity, AI, and Machine Learning**
-* 🛠 Building **AI-powered trading bots** and automation tools
-* 🌐 Interested in **Web Security & Penetration Testing**
-* 💡 Passionate about **combining AI with Cybersecurity** to create real-world solutions
-* 📊 Experienced in **cryptocurrency trading automation** and market analysis
-* 🔧 Skilled in **API integration** and **real-time data processing**
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=bolttaha&label=Profile%20views&color=0e75b6&style=flat" alt="BoltTaha" /> 
+</p>
 
-- 🌱 I'm currently learning **Machine Learning, Deep Learning, AI frameworks, and Cybersecurity tools**
+---
 
-- 💬 Ask me about **C, C++, Python, Cybersecurity, Trading Bots, API Development**
+### **👨‍💻 About Me**
 
-- 📫 How to reach me **bolt.taha.work@gmail.com**
+I am a **Computer Scientist** specializing in **Artificial Intelligence and High-Performance Automation**. I bridge the gap between low-level optimization (C++) and modern Deep Learning frameworks (Python).
 
-<h3 align="left">Connect with me:</h3>
+* 🚀 Specializing in **Computer Vision, Medical Imaging (MONAI), and Anomaly Detection**.
+* 🛠 Developing **Algorithmic Trading Bots** using Python & Real-time Financial APIs.
+* 💻 Optimizing data structures and memory management using **C++**.
+* 📊 Experienced in **Statistical Analysis, Predictive Modeling, and Image Segmentation**.
+* 🔧 Skilled in **deploying AI models** to production environments.
+
+- 🌱 I'm currently working on **Unsupervised Learning for Medical Diagnosis**.
+- 💬 Ask me about **Python, PyTorch, C++, and Automated Trading Systems**.
+- 📫 Contact: **bolt.taha.work@gmail.com**
+
+---
+
+<h3 align="left">🛠 Tech Stack & Tools:</h3>
+
 <p align="left">
-    <a href="mailto:bolt.taha.work@gmail.com" target="blank">
-        <img align="center" src="https://github.com/BoltTaha/BoltTaha/blob/4c5e3aa7b00883e735c26e6f4032cd925f6119b9/gmail%20logo.png" alt="gmail" height="30" width="40" />
-    </a>
-    <a href="https://www.linkedin.com/in/muhammad-taha-57713b247/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-    </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
+  <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/> </a>
+  
+  <a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/> </a>
+  <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/> </a>
+  <a href="https://opencv.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="45" height="45"/> </a>
+
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://github.com/BoltTaha/BoltTaha/blob/4c5e3aa7b00883e735c26e6f4032cd925f6119b9/raylib.jpeg" target="_blank" rel="noreferrer"> <img src="https://github.com/BoltTaha/BoltTaha/blob/4c5e3aa7b00883e735c26e6f4032cd925f6119b9/raylib.jpeg" alt="raylib" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-</p>
+---
 
-### **Skills & Technologies**
+<h3 align="left">📊 GitHub Stats</h3>
 
-* **Languages:** Python (Data handling, automation, APIs), JavaScript basics, C, C++
-* **Tools & Platforms:** Git & GitHub, APIs (REST & WebSocket), Binance & MEXC APIs
-* **Operating Systems:** Kali Linux, Ubuntu, and basic Linux commands
-* **Cybersecurity:** Basic tools (Nmap, Wireshark, Burp Suite basics)
-* **Trading & Finance:** Cryptocurrency trading bots, market data analysis, real-time price monitoring
-* **Development:** API development, WebSocket connections, data processing, automation scripting
-* **Version Control:** Git workflow, collaborative development, code management
-* **Web Technologies:** HTML, CSS, basic frontend development
-* **Data Analysis:** Market trend analysis, trading pattern recognition, statistical analysis
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bolttaha&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bolttaha&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bolttaha&show_icons=true&locale=en&layout=compact" alt="BoltTaha" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bolttaha&theme=radical&hide_border=true" alt="streak graph" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bolttaha&show_icons=true&locale=en" alt="BoltTaha" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bolttaha&" alt="BoltTaha" /></p>
+<div align="center">
+  <h3>🤝 Connect with me</h3>
+  <a href="mailto:bolt.taha.work@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-taha-57713b247/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
