@@ -24,7 +24,7 @@ I'm building **production-grade AI systems** that solve real-world problems. Wit
 * 🧠 **Specializing in:** LLM systems (Gemini, Claude), computer vision pipelines, risk-scoring engines, data-intensive backends
 * 💻 **Tech Stack:** Python, JavaScript, React, Express, Flask, TensorFlow, PyTorch, Docker
 * 🌐 **Deployment:** AWS EC2, Lambda, serverless architecture, production ML pipelines
-* 📚 **Track Record:** 10+ projects shipped, 2+ freelance clients, AWS Cloud Club co-lead
+* 📚 **Track Record:** 15+ projects shipped, 10+ freelance clients, AWS Cloud Club co-lead
 * 🎓 **Status:** 3rd-year CS student at FAST-NUCES (Class of 2027) — ready for internship roles
 
 ---
@@ -132,7 +132,7 @@ Full-stack ML system analyzing **105K+ articles** for crisis detection. Logistic
 
 ## 💬 **Why Work With Me?**
 
-✅ **Production Experience** — 2+ freelance clients, live deployments on AWS  
+✅ **Production Experience** — 10+ freelance clients, live deployments on AWS  
 ✅ **Full-Stack Capability** — Backend to frontend, ML to DevOps  
 ✅ **Real Metrics** — Not toy projects; 99.2% optimization, 7.7x improvements, millions of records processed  
 ✅ **Current Skills** — Cloud deployment, LLMs, computer vision, risk scoring engines  
