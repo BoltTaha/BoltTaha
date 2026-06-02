@@ -37,7 +37,7 @@ I'm building **production-grade AI systems** that solve real-world problems. Wit
 Built a real-time video analytics pipeline for a youth basketball client. Fine-tuned YOLOv8 with EfficientNet-B0 binary classifier for false positive reduction. Auto-exports 20-second highlight clips with parabolic arc verification and timestamped accuracy. **Production deployed**.
 
 ### 💳 [**QR Payment Verification System**](https://github.com/BoltTaha/qr-payment-verification-system)
-*JavaScript • Express • MongoDB • React • Gemini Vision | **Freelance Project***
+*JavaScript • Express • MongoDB • React • Gemini Vision
 
 Production fraud detection system supporting **8+ Pakistani payment apps** (EasyPaisa, JazzCash, NayaPay). Built async upload pipelines with Gemini Vision OCR, perceptual hash near-duplicate detection, and weighted risk-scoring engine. **Live on AWS EC2 with PM2 + Nginx**.
 
