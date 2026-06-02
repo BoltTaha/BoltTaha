@@ -6,7 +6,7 @@
 </div>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=bolttaha&label=Profile%20views&color=0e75b6&style=flat" alt="BoltTaha" /> 
+  <img src="https://komarev.com/ghpvc/?username=BoltTaha&label=Profile%20views&color=0e75b6&style=flat" alt="BoltTaha" /> 
   <a href="https://github.com/BoltTaha?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-15+-blue?style=flat-square" alt="Projects" />
   </a>
@@ -110,12 +110,12 @@ Full-stack ML system analyzing **105K+ articles** for crisis detection. Logistic
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bolttaha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bolttaha&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BoltTaha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BoltTaha&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bolttaha&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BoltTaha&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
 
 ---
