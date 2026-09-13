@@ -1,151 +1,105 @@
-<h1 align="center">👋 Hey, I'm Muhammad Taha</h1>
-<h3 align="center">AI/ML Engineer | Full-Stack Developer | LLM Systems Specialist</h3>
+<h1 align="center">Muhammad Taha · BoltTaha</h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" height="300"/>
-</div>
+<p align="center">
+  <strong>AI Engineer building computer vision, OCR, LLM/RAG, MCP, backend, and automation systems that work beyond the demo.</strong>
+</p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=BoltTaha&label=Profile%20views&color=0e75b6&style=flat" alt="BoltTaha" /> 
-  <a href="https://github.com/BoltTaha?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-15+-blue?style=flat-square" alt="Projects" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-taha-57713b247/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:bolt.taha.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<p align="center">
+  <a href="https://muhammadtaha.app"><img src="https://img.shields.io/badge/Portfolio-muhammadtaha.app-1E1A14?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/bolttaha"><img src="https://img.shields.io/badge/LinkedIn-BoltTaha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:bolt.taha.work@gmail.com"><img src="https://img.shields.io/badge/Email-bolt.taha.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-## 🚀 **About Me**
+## What I build
 
-I'm building **production-grade AI systems** that solve real-world problems. With hands-on experience in **LLM integration, computer vision, and full-stack development**, I turn AI from research into deployed, scalable solutions on AWS.
+I build AI systems that connect models to real data, real software, and real operational workflows. My work sits at the intersection of **computer vision**, **document AI**, **LLM applications**, **RAG / Graph-RAG**, **MCP integrations**, **backend systems**, and **production automation**.
 
-* 🧠 **Specializing in:** LLM systems (Gemini, Claude), computer vision pipelines, risk-scoring engines, data-intensive backends
-* 💻 **Tech Stack:** Python, JavaScript, React, Express, Flask, TensorFlow, PyTorch, Docker
-* 🌐 **Deployment:** AWS EC2, Lambda, serverless architecture, production ML pipelines
-* 📚 **Track Record:** 15+ projects shipped, 10+ freelance clients, AWS Cloud Club co-lead
-* 🎓 **Status:** 3rd-year CS student at FAST-NUCES (Class of 2027) — ready for internship roles
+I care about the parts that make an AI system useful after the demo:
 
----
-
-## 💡 **Featured Projects**
-
-### 🏀 [**Basketball Made-Basket Detector**](https://github.com/BoltTaha/basketball-detector)
-*Python • YOLOv8 • EfficientNet-B0 • OpenCV | **Freelance Project***
-
-Built a real-time video analytics pipeline for a youth basketball client. Fine-tuned YOLOv8 with EfficientNet-B0 binary classifier for false positive reduction. Auto-exports 20-second highlight clips with parabolic arc verification and timestamped accuracy. **Production deployed**.
-
-### 💳 [**QR Payment Verification System**](https://github.com/BoltTaha/qr-payment-verification-system)
-*JavaScript • Express • MongoDB • React • Gemini Vision*
-
-Production fraud detection system supporting **8+ Pakistani payment apps** (EasyPaisa, JazzCash, NayaPay). Built async upload pipelines with Gemini Vision OCR, perceptual hash near-duplicate detection, and weighted risk-scoring engine. **Live on AWS EC2 with PM2 + Nginx**.
-
-### 🗜️ [**Context Window Compressor**](https://github.com/BoltTaha/Context-Window-Compressor)
-*Python • Gemini • Gradio*
-
-3-tier hierarchical LLM memory system that compresses conversation history into summaries and extracted facts. **Achieves 7.7x context extension** on long sessions. Rate limiting, exponential backoff fallback, and live Gradio UI for memory inspection.
-
-### 📝 [**SnapTeX — Handwritten Notes to LaTeX**](https://github.com/BoltTaha/SnapTeX)
-*Python • Streamlit • Gemini AI*
-
-AI-powered tool converting handwritten notes (PDFs/images) to clean LaTeX and PDF output. **Parallel batch processing** for efficiency, diagram recognition (UML/flowcharts), and full session isolation. Perfect for students and researchers.
-
-### 🔍 [**Large-Scale Document Preprocessing Pipeline**](https://github.com/BoltTaha/scan-preprocessing)
-*Python • OpenCV • Azure DevOps | **Freelance Project***
-
-Production preprocessing pipeline for **million-page scanned records**: rotation/deskew correction, artifact removal, bleed-through suppression, and contrast normalization. Integrated with Azure DevOps CI/CD for reproducible batch execution. **Reduced manual preprocessing time by ~60%**.
-
-### 🎯 [**Crisis Intelligence Decision Support**](https://github.com/BoltTaha/crisis-intelligence-decision-support)
-*Python • Flask • scikit-learn • TensorFlow*
-
-Full-stack ML system analyzing **105K+ articles** for crisis detection. Logistic Regression + Neural Networks for 5-class categorization, TF-IDF feature extraction, A* search for multi-event risk paths. Flask REST API with interactive dashboard and model explainability outputs.
+- Clean data flow and failure handling
+- Reliable backend architecture
+- Evaluation, review screens, and human-in-the-loop controls
+- Safe integrations with databases, files, APIs, and existing workflows
+- Clear deployment and operations documentation
 
 ---
 
-## 🛠️ **Tech Stack**
+## Strongest work
 
-<p align="left">
-  <!-- Languages -->
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
-  <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [Basketball Made-Basket Clip Finder](https://muhammadtaha.app/client-work/basketball-clip-finder) | Computer vision pipeline for game footage, made-basket detection, 20-second clip export, false-positive review workflow | Python, OpenCV, YOLOv8, EfficientNet, video processing |
+| [Document OCR Preprocessing Pipeline](https://muhammadtaha.app/client-work/document-ocr-preprocessing-pipeline) | Production-oriented preprocessing for scanned county records: deskew, cleanup, denoise, illumination correction, resumable batch execution | Python, OpenCV, TIFF processing, Windows operations |
+| [Rabt Codebase Graph-RAG](https://muhammadtaha.app/projects/rabt-codebase-graphrag) | AST-aware codebase context system that reduces noisy repository prompts for LLM coding workflows | Python, AST parsing, Graph-RAG, NetworkX, context engineering |
+| [MCP Data Analyst](https://muhammadtaha.app/projects/mcp-data-analyst) | Guarded text-to-SQL/data-analysis system with MCP tools, REST APIs, SQL validation, and query controls | Python, FastAPI, PostgreSQL, MCP, Chroma, Docker |
+| [QR Payment Verification](https://muhammadtaha.app/projects/qr-payment-verification) | Full-stack receipt-review workflow with OCR extraction, duplicate detection, risk scoring, and admin review | React, Express, MongoDB, Gemini Vision |
+| [SnapTeX](https://muhammadtaha.app/projects/snaptex) | Document-to-LaTeX workflow for images/PDFs with page-level processing and optional PDF compilation | Python, Streamlit, Gemini, LaTeX |
 
-  <!-- ML & Data -->
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50" height="50"/> </a>
-  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="50" height="50"/> </a>
-  <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> </a>
+More case studies: **[muhammadtaha.app/projects](https://muhammadtaha.app/projects)**
 
-  <!-- Backend -->
-  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="50" height="50"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/> </a>
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="50" height="50"/> </a>
+---
 
-  <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/> </a>
-  <a href="https://dart.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="50" height="50"/> </a>
+## Engineering focus
 
-  <!-- Cloud & DevOps -->
-  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
+```txt
+AI systems       Computer vision · OCR/document AI · LLM apps · RAG · Graph-RAG · MCP
+Backend          Python · FastAPI · Flask · REST APIs · PostgreSQL · MongoDB · Docker
+Data workflows   Pandas · NumPy · Parquet · validation · resumable jobs · logging
+Vision           OpenCV · YOLOv8 · EfficientNet · image preprocessing · video analysis
+Frontend         React · Next.js · TypeScript · Streamlit · Flutter
+Deployment       Linux · Windows operations · AWS EC2 · Nginx · PM2 · CI/CD
+```
+
+---
+
+## How I think about AI projects
+
+I do not start with a model choice. I start with the workflow.
+
+What data comes in? What does a person need to decide? What can fail? What should be reviewed? What has to be logged? What needs to run again safely tomorrow?
+
+Sometimes the right answer is an LLM. Sometimes it is RAG. Sometimes it is computer vision. Sometimes it is a deterministic backend with a small model in the right place.
+
+The goal is not to use the most AI possible. The goal is to build the simplest system that reliably solves the problem.
+
+---
+
+## Current direction
+
+I am focused on becoming stronger at:
+
+- Codebase intelligence and context engineering for AI coding workflows
+- Production RAG and Graph-RAG systems
+- Computer vision systems that work on messy real-world footage
+- OCR/document pipelines for large scanned collections
+- Backend architecture for AI tools, agents, and data assistants
+- Reliable AI integrations for startups, product teams, and technical founders
+
+---
+
+## Work with me
+
+If you are building something where AI needs to work with real files, video, databases, tools, or internal workflows, I can help with architecture, implementation, and production readiness.
+
+Good starting points:
+
+- Computer vision or video-analysis workflow
+- OCR/document-processing pipeline
+- RAG or Graph-RAG system
+- AI agent or MCP integration
+- Text-to-SQL or data assistant
+- Backend system for an AI product
+- Existing prototype that needs to become reliable
+
+<p align="center">
+  <a href="https://muhammadtaha.app/contact"><img src="https://img.shields.io/badge/Discuss%20a%20Project-Contact%20Me-1E1A14?style=for-the-badge" alt="Discuss a project" /></a>
+  <a href="https://muhammadtaha.app/resume.pdf"><img src="https://img.shields.io/badge/View-Resume-6F4E37?style=for-the-badge" alt="Resume" /></a>
 </p>
-
-**Languages:** Python, JavaScript, C++, Dart, SQL, C
-
-**ML & Computer Vision:** TensorFlow, PyTorch, scikit-learn, OpenCV, YOLOv8, EfficientNet, Keras
-
-**Specializations:** LLM Integration (Gemini, Claude), Risk Scoring, Image Forensics, Perceptual Hashing, Production ML Pipelines
-
-**Backend:** Flask, Express, FastAPI, Firebase, MongoDB, SQLite, Parquet
-
-**Frontend:** React, Vite, Streamlit, Flutter
-
-**Cloud & DevOps:** AWS (EC2, Lambda), Docker, PM2, Nginx, CI/CD
-
----
-
-## 🎯 **Current Focus**
-
-- 🤖 Advanced LLM systems and memory architectures
-- 🎬 Computer vision pipelines for production environments
-- ☁️ Scalable cloud deployment patterns on AWS
-- 🚀 Open-source AI tooling & community mentorship
-- 💼 Seeking AI Engineering internship roles
-
----
-
-## 💬 **Why Work With Me?**
-
-✅ **Production Experience** — 10+ freelance clients, live deployments on AWS
-✅ **Full-Stack Capability** — Backend to frontend, ML to DevOps
-✅ **Real Metrics** — Not toy projects; 99.2% optimization, 7.7x improvements, millions of records processed
-✅ **Current Skills** — Cloud deployment, LLMs, computer vision, risk scoring engines
-✅ **Proven Learner** — AWS Cloud Club co-lead, multiple certifications, hands-on with cutting-edge AI
-
----
-
-## 🤝 **Let's Connect**
-
-<div align="center">
-  <a href="mailto:bolt.taha.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-taha-57713b247/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/BoltTaha">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
 
 ---
 
 <p align="center">
-  <i>Building production AI systems that matter. Let's create something great together. 🚀</i>
+  <em>Building practical AI systems with clear evidence, maintainable code, and real-world constraints in mind.</em>
 </p>
